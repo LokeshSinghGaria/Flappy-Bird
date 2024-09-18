@@ -1,5 +1,4 @@
-# [Flappy Bird](https://youtu.be/Xw2MEG-FBsE)
-- Coding Tutorial: [https://youtu.be/jj5ADM2uywg](https://youtu.be/Xw2MEG-FBsE)
+# [Flappy Bird]
 
 In this tutorial, you will learn to create the flappy bird game with the built-in java awt/swing graphics library.
 
